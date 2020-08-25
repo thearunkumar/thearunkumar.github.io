@@ -1,11 +1,13 @@
 @font-face {
   font-family: OSEBold;
   src: url(../fonts/OpenSans-ExtraBold.ttf);
+  font-display: swap;
 }
 
 @font-face {
   font-family: OSLight;
   src: url(../fonts/OpenSans-Light.ttf);
+  font-display: swap;
 }
 
 html {
